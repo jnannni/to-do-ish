@@ -13,6 +13,10 @@ A simple to-do list app built with React and Expo that will help you come up wit
 - @react-native-community/checkbox
 - AntDesign Icons
 
-<iframe width="560" height="315" src="https://drive.google.com/file/d/15Kf_xrOHYgkwE6VOraWZqwrCVbTXYhgq/view?usp=sharing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<video width="630" height="300" src="https://github.com/user-attachments/assets/12a77a50-b183-40f3-b01e-1f56dfddb7c9"></video>
+
+
+
 
 
